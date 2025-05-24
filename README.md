@@ -1,4 +1,4 @@
-# breast_cancer_Wisconsin
+# Breast Cancer classification using Random Forest
 # 🧠 Breast Cancer Classification with Random Forest
 
 ## 📖 Project Overview
